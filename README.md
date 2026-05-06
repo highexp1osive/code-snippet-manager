@@ -65,6 +65,14 @@ created: YYYY-MM-DD
     └── ...
 ```
 
+## 关联仓库
+
+[仓库](https://github.com/highexp1osive/my-code-snippets) 这里存放一些我自己在AI Coding过程中所保存的一些代码片段。
+
+## 未来计划
+
+主要会根据个人需求慢慢更新。
+
 ## 许可证
 
 MIT
