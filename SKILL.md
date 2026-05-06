@@ -38,7 +38,7 @@ created: {YYYY-MM-DD}
 
 触发：**我要XX功能 / 调出XX / 用之前的XX / I need XX**
 
-1. `Glob ~/.claude/snippets/*.md` 列出所有片段
+1. `ls ~/.claude/snippets/` 列出所有片段（优先用 Bash，Windows 上 Glob 展开 `~` 容易超时）
 2. 按文件名、name、description、tags 模糊匹配
 3. 读最匹配的文件
 4. **适配当前项目后补全**（语言语法、导入路径、命名风格、框架 API）
