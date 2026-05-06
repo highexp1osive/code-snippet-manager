@@ -25,6 +25,8 @@ git clone https://github.com/highexp1osive/code-snippet-manager.git ~/.claude/sk
 使用 code-snippet-manager skill 管理个人代码片段。触发词：保存这段代码为 / 我要XX功能 / 列出我的片段 / 删除XX片段。
 ```
 
+或者直接：claude帮我安装https://github.com/highexp1osive/code-snippet-manager的skill。
+
 ## 使用示例
 
 ```
