@@ -1,6 +1,6 @@
 # Code Snippet Manager
 
-Claude Code 技能——用自然语言管理个人代码片段库。
+一个简单的claude code skills：项目过程中保存功能代码片段，供其他项目复用，减少与agent的沟通成本，提高工作效率。
 
 ## 功能
 
